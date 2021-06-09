@@ -4,13 +4,13 @@ sidebar_position: 1
 
 # Tutorial Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.hjkghjkghjkghjjkghhkhjjlhjkljk
+Let's discover **Docusaurus in less than 5 minutes**.hjkghjkghjkghjjkghhkhjjlhjkljk;k;jk;lkk;
 
 ## Getting Started
 
 Get started by **creating a new site**.
 
-Or **try Docusaurus immediately** with **[new.docusaurus.io](https://new.docusaurus.io)**.
+Or **try Docusaurus immediately** with **[new.docusaurus.io](https://new.docusaurus.io)**.jkl;kkl
 
 ## Generate a new site
 
