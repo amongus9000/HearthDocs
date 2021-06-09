@@ -1,0 +1,1 @@
+(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[299],{2566:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/HearthDocs/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/HearthDocs/blog/tags/hello"}')}}]);
