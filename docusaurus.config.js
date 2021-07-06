@@ -27,7 +27,6 @@ module.exports = {
           label: 'Articles',
         },
     },
-  },
   presets: [
     [
       '@docusaurus/preset-classic',
