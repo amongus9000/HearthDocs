@@ -20,7 +20,7 @@ module.exports = {
         src: 'img/mascot.png',
       },
       items: [
-        {to: '/docs/intro.md', label: 'Articles', position: 'left'},
+        {to: '/docs/intro', label: 'Articles', position: 'left'},
         ]
     },
   },
