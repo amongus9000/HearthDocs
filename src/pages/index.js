@@ -23,7 +23,7 @@ export default function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Official wiki of HearthCraft, a 0% pay-to-win economy SMP since 2018.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
