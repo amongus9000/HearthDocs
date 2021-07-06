@@ -24,7 +24,7 @@ module.exports = {
         {
             type: 'category',
             label: 'Other Links',
-            collapsed: false,
+            collapsed: true,
             items: [
                   {
                      type: 'link',
