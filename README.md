@@ -1,33 +1,3 @@
-# Website
+# HearthCraft Wiki
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
-
-## Installation
-
-```console
-yarn install
-```
-
-## Local Development
-
-```console
-yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-## Build
-
-```console
-yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-```console
-GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+So, you found our repository. And you want to contribute. To do so, you can fork this repository by clicking the **"Fork"** button on the top right. Write/revise articles on the /docs folder, and then send us a pull request. If you want to write new articles, don't forget to add them in the right category in `sidebar.json`. 
