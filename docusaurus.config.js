@@ -21,6 +21,7 @@ module.exports = {
       },
       items: [
         {to: '/docs/intro.md', label: 'Articles', position: 'left'},
+        ]
     },
   },
   presets: [
