@@ -1,26 +1,20 @@
 module.exports = {
-
-
     docs: [
-
         {
             type: 'link',
             label: 'Website',
             href: 'https://hearthcraft.net/'
         },
-     
         {
             type: 'link',
             label: 'Rules',
             href: 'https://hearthcraft.net/rules',
         },
-
         {
             type: 'link',
             label: 'Discord',
             href: 'https://discord.hearthcraft.net/',
         },
-        
         {
             type: 'category',
             label: 'Other Links',
@@ -68,7 +62,6 @@ module.exports = {
                   },
             ],
         },
-
         {
             type: 'category',
             label: 'Welcome',
@@ -77,7 +70,6 @@ module.exports = {
                 'intro',
             ],
         },
-
         {
             type: 'category',
             label: 'Plugins',
