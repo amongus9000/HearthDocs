@@ -17,8 +17,15 @@ module.exports = {
       title: 'HearthCraft Wiki',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/mascot.png',
       },
+      items: [
+        {
+          type: 'doc',
+          docId: 'intro',
+          position: 'left',
+          label: 'Articles',
+        },
     },
   },
   presets: [
