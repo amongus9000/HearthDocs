@@ -59,7 +59,7 @@ module.exports = {
                   {
                      type: 'link',
                      label: 'Trailer',
-                     href: 'https://www.youtube.com/watch?v=tKJ4dBRGOsc&t=27s',
+                     href: 'https://www.youtube.com/watch?v=tKJ4dBRGOsc',
                   },
                   {
                      type: 'link',
