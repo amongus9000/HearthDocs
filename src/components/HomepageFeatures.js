@@ -31,8 +31,8 @@ function Feature({Svg, title, description}) {
 
 export default function HomepageFeatures() {
   return (
-    <center>
     <section className={styles.features}>
+    <center>
       <div className="container">
         <div className="row">
           {FeatureList.map((props, idx) => (
@@ -40,7 +40,7 @@ export default function HomepageFeatures() {
           ))}
         </div>
       </div>
-    </section>
     </center>
+    </section>
   );
 }
