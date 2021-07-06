@@ -52,4 +52,3 @@ jobs:
           fi
           npm run deploy
           var ghpages = require('gh-pages');
-          var fs = require('fs');
