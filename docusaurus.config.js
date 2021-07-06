@@ -19,13 +19,6 @@ module.exports = {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
       },
-      items: [
-        {
-          href: 'https://github.com/simoneedotexe/HearthDocs',
-          label: 'GitHub',
-          position: 'right',
-        },
-      ],
     },
   },
   presets: [
@@ -37,12 +30,6 @@ module.exports = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/simoneedotexe/HearthDocs/edit/master/website/',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/simoneedotexe/HearthDocs/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
