@@ -24,6 +24,7 @@ module.exports = {
         {
             type: 'category',
             label: 'Welcome',
+            collapsed: false,
             items: [
                 'intro',
             ],
