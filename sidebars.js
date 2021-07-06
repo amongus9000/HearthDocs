@@ -12,7 +12,7 @@ module.exports = {
         {
             type: 'link',
             label: 'Rules',
-            href: 'https://hearthcraft.net/rules'
+            href: 'https://hearthcraft.net/rules',
         },
 
         {
@@ -127,4 +127,3 @@ module.exports = {
         },
     ]
 }
-//'editing-account-details'
