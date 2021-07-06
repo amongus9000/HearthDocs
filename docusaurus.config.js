@@ -23,12 +23,6 @@ module.exports = {
           position: 'left',
           label: 'Tutorial',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/simoneedotexe/HearthDocs',
-          label: 'GitHub',
-          position: 'right',
-        },
       ],
     },
     footer: {
