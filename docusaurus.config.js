@@ -3,7 +3,7 @@ module.exports = {
   title: 'HearthCraft Wiki',
   tagline: 'Home is where the hearth is.',
   url: 'https://simoneedotexe.github.io/',
-  baseUrl: '/HearthDocs',
+  baseUrl: '/HearthDocs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
