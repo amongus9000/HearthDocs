@@ -33,7 +33,6 @@ export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
-        <div className="row">
           
     <center>
           {FeatureList.map((props, idx) => (
