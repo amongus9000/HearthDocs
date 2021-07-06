@@ -80,7 +80,7 @@ module.exports = {
                 label: 'Core Features',
                 collapsed: true,
                 items: [
-                    'Plugins/GriefPrevention',
+                    'plugins/GriefPrevention',
                  ]
                 },
                 {
@@ -88,7 +88,7 @@ module.exports = {
                 label: 'Lesser Features',
                 collapsed: true,
                 items: [
-                    'Plugins/AdvancedGift',
+                    'plugins/AdvancedGift',
                  ]
                 },
                 {
@@ -96,7 +96,7 @@ module.exports = {
                 label: 'Quality of Life',
                 collapsed: true,
                 items: [
-                    'Plugins/BetterSleeping',
+                    'plugins/BetterSleeping',
                  ]
                 },
                 {
@@ -104,7 +104,7 @@ module.exports = {
                 label: 'Back-end',
                 collapsed: true,
                 items: [
-                    'Plugins/AAC',
+                    'plugins/AAC',
                  ]
                 },
                 {
@@ -112,7 +112,7 @@ module.exports = {
                 label: 'Chat & Interface',
                 collapsed: true,
                 items: [
-                    'Plugins/DeluxeTags',
+                    'plugins/DeluxeTags',
                  ]
                 },
             ],
