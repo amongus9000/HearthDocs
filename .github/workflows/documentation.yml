@@ -51,4 +51,3 @@ jobs:
           npm i
           fi
           npm run deploy
-          var ghpages = require('gh-pages');
