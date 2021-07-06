@@ -10,6 +10,9 @@ module.exports = {
   organizationName: 'simoneedotexe', // Usually your GitHub org/user name.
   projectName: 'HearthDocs', // Usually your repo name.
   themeConfig: {
+    colorMode: {
+      defaultMode: "dark",
+    },
     navbar: {
       title: 'HearthCraft Wiki',
       logo: {
