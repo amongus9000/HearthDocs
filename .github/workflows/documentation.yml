@@ -53,6 +53,3 @@ jobs:
           npm run deploy
           var ghpages = require('gh-pages');
           var fs = require('fs');
-
-          fs.writeFile('dist/CNAME', "wiki.hearthcraft.net", function(err) {});
-          ghpages.publish('dist', function(err) {});
