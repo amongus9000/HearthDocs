@@ -20,12 +20,7 @@ module.exports = {
         src: 'img/mascot.png',
       },
       items: [
-        {
-          type: 'doc',
-          docId: 'intro',
-          position: 'left',
-          label: 'Articles',
-        },
+        {to: '/docs/intro.md', label: 'Articles', position: 'left'},
     },
   },
   presets: [
