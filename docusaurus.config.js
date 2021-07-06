@@ -81,12 +81,6 @@ module.exports = {
           editUrl:
             'https://github.com/simoneedotexe/HearthDocs/edit/master/website/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/simoneedotexe/HearthDocs/edit/master/website/blog/',
-        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
