@@ -1,6 +1,6 @@
 # HearthCraft
 
-## Welcome to the HearthCraft Wiki
+## Welcome to the HearthCraft Wikit
 
 
 
